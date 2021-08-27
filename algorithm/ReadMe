@@ -1,0 +1,14 @@
+
+一、cd到一个目录下
+
+touch helloworld.cpp
+
+二、编译
+
+g++  helloworld.cpp  
+
+三、执行
+
+./a.out
+
+
